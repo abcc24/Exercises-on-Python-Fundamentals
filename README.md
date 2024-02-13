@@ -1,1 +1,1 @@
-# Exercise-on-Pythin-Fundamentals
+# Exercise-on-Python-Fundamentals

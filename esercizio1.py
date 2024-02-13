@@ -1,2 +1,2 @@
 from math import sqrt
-print(sqrt((10.1232)+(30.4562)))
+print(sqrt((10.123**2)+(30.456**2)))

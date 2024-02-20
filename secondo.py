@@ -53,3 +53,9 @@ print (b1+f1) # definisco un'addizione
 
 
 
+H=int(input("inserisci numero " ))
+B=int(input("inserisci numero " ))
+V=int(input("inserisci numero " ))
+
+A=(H*(B+V))
+print ("inserisci numero " +str(A))

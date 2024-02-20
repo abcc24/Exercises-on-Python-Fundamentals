@@ -59,3 +59,10 @@ V=int(input("inserisci numero " ))
 
 A=(H*(B+V))
 print ("inserisci numero " +str(A))
+
+if H>B:
+    print(H)
+elif B>H:
+    print(B)
+else:
+    print(V)

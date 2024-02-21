@@ -1,4 +1,3 @@
-
 a=float(input("inserisci numero " ))
 action=(input("inserisci operazione " ))
 b=float(input("inserisci nuemro " ))

@@ -1,2 +1,9 @@
 from math import sqrt
-print(sqrt((10.123**2)+(30.456**2)))
+
+p=3.5
+r=4
+h=15
+
+V1=((p*r)*(sqrt(2*h)))
+
+print (V1)

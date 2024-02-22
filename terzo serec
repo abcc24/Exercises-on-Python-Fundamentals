@@ -1,0 +1,10 @@
+a = 10
+print(type(a))
+
+a = float
+print(type(a))
+
+a = a(3)
+print(type(a))
+
+#type indica che tipo di valore è

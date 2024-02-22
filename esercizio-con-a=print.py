@@ -1,16 +1,9 @@
-a = 10
-print(type(a))
-
-a = float
-print(type(a))
-
-a = a(3)
-print(type(a))
-
-#type indica che tipo di valore è
+a=print
 
 x, y, z = "Superman", "Spiderman", "Batman"
-print (x,y,z)
+a (x,y,z)
 
 l, m, n = "Oggi è una bella giornata", "per andare a portare il cane", "al parco sotto casa"
-print (l,m,n)
+a (l,m,n)
+
+#"a" diventa la funzione print, quindi quando si va a usare print si usa "a" come funzione in questo caso

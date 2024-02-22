@@ -1,8 +1,8 @@
-r1 = 30
-r2 = 45
-r3 = 33
-h = 130
-π = 3.1415
+r1 = int(input("inserisci nuemro " ))
+r2 = int(input("inserisci nuemro " ))
+r3 = int(input("inserisci nuemro " ))
+h = int(input("inserisci nuemro " ))
+π = float(input("inserisci nuemro " ))
 
 S1 = π*(r1**2)
 
@@ -13,5 +13,3 @@ S3 = π*(r3**2)
 V = 1/6*h*(S1+(4*S2)+S3)
 
 print (V/1000)
-
-int(input("inserisci nuemro " ))

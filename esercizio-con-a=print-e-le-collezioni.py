@@ -62,3 +62,18 @@ lista.pop(0)
 print (lista)
 lista.sort()
 print (lista)
+
+
+#fare una lista di 1000000 di elementi casuali e fare la somma
+
+import random
+import sys
+
+lista=[]
+for i in range (1000000):
+    n=random.randint (0,1000000)
+    lista.append(n)
+    print(lista)
+    
+
+
